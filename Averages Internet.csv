@@ -1,0 +1,1020 @@
+Year,Region,Province/territory,Plan,Average ($)
+2022,Urbain / Urban,BC,25/3 Mbps,66.22
+2022,Urbain / Urban,AB,25/3 Mbps,63.72
+2022,Urbain / Urban,SK,25/3 Mbps,62.08
+2022,Urbain / Urban,MB,25/3 Mbps,63.07
+2022,Urbain / Urban,ON,25/3 Mbps,55.1
+2022,Urbain / Urban,QC,25/3 Mbps,54.08
+2022,Urbain / Urban,NB,25/3 Mbps,69.47
+2022,Urbain / Urban,PE,25/3 Mbps,44.97
+2022,Urbain / Urban,NS,25/3 Mbps,58.31
+2022,Urbain / Urban,NL,25/3 Mbps,69.47
+2022,Urbain / Urban,YT,25/3 Mbps,110.95
+2022,Urbain / Urban,NT,25/3 Mbps,110.95
+2022,Urbain / Urban,BC,50/10 Mbps,78.6
+2022,Urbain / Urban,AB,50/10 Mbps,80.64
+2022,Urbain / Urban,SK,50/10 Mbps,87.3
+2022,Urbain / Urban,MB,50/10 Mbps,85.42
+2022,Urbain / Urban,ON,50/10 Mbps,73.45
+2022,Urbain / Urban,QC,50/10 Mbps,71.45
+2022,Urbain / Urban,NB,50/10 Mbps,86.6
+2022,Urbain / Urban,PE,50/10 Mbps,89.3
+2022,Urbain / Urban,NS,50/10 Mbps,91.17
+2022,Urbain / Urban,NL,50/10 Mbps,86.6
+2022,Urbain / Urban,YT,50/10 Mbps,159.98
+2022,Urbain / Urban,NT,50/10 Mbps,159.98
+2022,Urbain / Urban,NU,50/10 Mbps,170
+2022,Urbain / Urban,BC,100/15 Mbps,86.59
+2022,Urbain / Urban,AB,100/15 Mbps,88.57
+2022,Urbain / Urban,SK,100/15 Mbps,85.89
+2022,Urbain / Urban,MB,100/15 Mbps,90.25
+2022,Urbain / Urban,ON,100/15 Mbps,80.79
+2022,Urbain / Urban,QC,100/15 Mbps,74.42
+2022,Urbain / Urban,NB,100/15 Mbps,90.81
+2022,Urbain / Urban,PE,100/15 Mbps,97.49
+2022,Urbain / Urban,NS,100/15 Mbps,104.98
+2022,Urbain / Urban,NL,100/15 Mbps,89.98
+2022,Urbain / Urban,YT,100/15 Mbps,144.98
+2022,Urbain / Urban,NT,100/15 Mbps,164.98
+2022,Urbain / Urban,NU,100/15 Mbps,140
+2022,Urbain / Urban,BC,200/15 Mbps,95.19
+2022,Urbain / Urban,AB,200/15 Mbps,95.19
+2022,Urbain / Urban,SK,200/15 Mbps,92.79
+2022,Urbain / Urban,MB,200/15 Mbps,92.97
+2022,Urbain / Urban,ON,200/15 Mbps,90.15
+2022,Urbain / Urban,QC,200/15 Mbps,84.03
+2022,Urbain / Urban,NB,200/15 Mbps,93.21
+2022,Urbain / Urban,PE,200/15 Mbps,94.97
+2022,Urbain / Urban,NS,200/15 Mbps,86.45
+2022,Urbain / Urban,NL,200/15 Mbps,93.21
+2022,Urbain / Urban,YT,200/15 Mbps,189.95
+2022,Urbain / Urban,NT,200/15 Mbps,189.95
+2022,Urbain / Urban,BC,940/15 Mbps,110.23
+2022,Urbain / Urban,AB,940/15 Mbps,113.98
+2022,Urbain / Urban,SK,940/15 Mbps,115.79
+2022,Urbain / Urban,MB,940/15 Mbps,114.09
+2022,Urbain / Urban,ON,940/15 Mbps,109.11
+2022,Urbain / Urban,QC,940/15 Mbps,97.99
+2022,Urbain / Urban,NB,940/15 Mbps,105.57
+2022,Urbain / Urban,PE,940/15 Mbps,119.98
+2022,Urbain / Urban,NS,940/15 Mbps,117.48
+2022,Urbain / Urban,NL,940/15 Mbps,110.57
+2022,Urbain / Urban,BC,500/15 Mbps,97.92
+2022,Urbain / Urban,AB,500/15 Mbps,101.97
+2022,Urbain / Urban,SK,500/15 Mbps,103.96
+2022,Urbain / Urban,MB,500/15 Mbps,104.64
+2022,Urbain / Urban,ON,500/15 Mbps,98.18
+2022,Urbain / Urban,QC,500/15 Mbps,92.47
+2022,Urbain / Urban,NB,500/15 Mbps,101.97
+2022,Urbain / Urban,PE,500/15 Mbps,117.5
+2022,Urbain / Urban,NS,500/15 Mbps,120
+2022,Urbain / Urban,NL,500/15 Mbps,99.98
+2022,Urbain / Urban,YT,500/15 Mbps,239.95
+2022,Urbain / Urban,NT,500/15 Mbps,239.95
+2022,Urbain / Urban,Nord / North,25/3 Mbps,110.95
+2022,Urbain / Urban,Nord / North,50/10 Mbps,163.32
+2022,Urbain / Urban,Nord / North,100/15 Mbps,149.98
+2022,Urbain / Urban,Nord / North,200/15 Mbps,189.95
+2022,Urbain / Urban,Nord / North,500/15 Mbps,239.95
+2022,Urbain / Urban,Canada,25/3 Mbps,65.22
+2022,Urbain / Urban,Canada,50/10 Mbps,90.35
+2022,Urbain / Urban,Canada,100/15 Mbps,94.52
+2022,Urbain / Urban,Canada,200/15 Mbps,100.74
+2022,Urbain / Urban,Canada,500/15 Mbps,116.23
+2022,Urbain / Urban,Canada,940/15 Mbps,111.48
+2022,Urbain / Urban,Sud / South,25/3 Mbps,58.96
+2022,Urbain / Urban,Sud / South,50/10 Mbps,79.18
+2022,Urbain / Urban,Sud / South,100/15 Mbps,85.27
+2022,Urbain / Urban,Sud / South,200/15 Mbps,91.26
+2022,Urbain / Urban,Sud / South,940/15 Mbps,110.31
+2022,Urbain / Urban,Sud / South,500/15 Mbps,101.05
+2022,Rural,BC,25/3 Mbps,80.07
+2022,Rural,AB,25/3 Mbps,76.54
+2022,Rural,SK,25/3 Mbps,81.21
+2022,Rural,MB,25/3 Mbps,73.12
+2022,Rural,ON,25/3 Mbps,59.98
+2022,Rural,QC,25/3 Mbps,60.96
+2022,Rural,NB,25/3 Mbps,66.36
+2022,Rural,PE,25/3 Mbps,61.92
+2022,Rural,NS,25/3 Mbps,69.7
+2022,Rural,NL,25/3 Mbps,72.47
+2022,Rural,YT,25/3 Mbps,86.95
+2022,Rural,NT,25/3 Mbps,107.46
+2022,Rural,NU,25/3 Mbps,114.99
+2022,Rural,BC,50/10 Mbps,111.32
+2022,Rural,AB,50/10 Mbps,99.41
+2022,Rural,SK,50/10 Mbps,97.47
+2022,Rural,MB,50/10 Mbps,104.98
+2022,Rural,ON,50/10 Mbps,75.44
+2022,Rural,QC,50/10 Mbps,82.48
+2022,Rural,NB,50/10 Mbps,82.65
+2022,Rural,PE,50/10 Mbps,92.77
+2022,Rural,NS,50/10 Mbps,92.37
+2022,Rural,NL,50/10 Mbps,86.97
+2022,Rural,YT,50/10 Mbps,139.98
+2022,Rural,NT,50/10 Mbps,159.98
+2022,Rural,NU,50/10 Mbps,170
+2022,Rural,BC,100/15 Mbps,103.4
+2022,Rural,AB,100/15 Mbps,104.46
+2022,Rural,SK,100/15 Mbps,89.31
+2022,Rural,MB,100/15 Mbps,105.01
+2022,Rural,ON,100/15 Mbps,76.09
+2022,Rural,QC,100/15 Mbps,79.14
+2022,Rural,NB,100/15 Mbps,96.99
+2022,Rural,PE,100/15 Mbps,96.65
+2022,Rural,NS,100/15 Mbps,104.98
+2022,Rural,NL,100/15 Mbps,99.51
+2022,Rural,YT,100/15 Mbps,142.49
+2022,Rural,NT,100/15 Mbps,154.98
+2022,Rural,NU,100/15 Mbps,140
+2022,Rural,BC,200/15 Mbps,108.1
+2022,Rural,AB,200/15 Mbps,109.75
+2022,Rural,SK,200/15 Mbps,88.52
+2022,Rural,MB,200/15 Mbps,96.21
+2022,Rural,ON,200/15 Mbps,83.6
+2022,Rural,QC,200/15 Mbps,82.09
+2022,Rural,NB,200/15 Mbps,97.47
+2022,Rural,PE,200/15 Mbps,79.95
+2022,Rural,NS,200/15 Mbps,89.95
+2022,Rural,NL,200/15 Mbps,89.95
+2022,Rural,YT,200/15 Mbps,189.95
+2022,Rural,NT,200/15 Mbps,189.95
+2022,Rural,BC,940/15 Mbps,120.82
+2022,Rural,AB,940/15 Mbps,74.95
+2022,Rural,MB,940/15 Mbps,125
+2022,Rural,ON,940/15 Mbps,101.42
+2022,Rural,QC,940/15 Mbps,96.44
+2022,Rural,NB,940/15 Mbps,108.31
+2022,Rural,PE,940/15 Mbps,109.98
+2022,Rural,NS,940/15 Mbps,109.98
+2022,Rural,NL,940/15 Mbps,114.98
+2022,Rural,BC,500/15 Mbps,110.82
+2022,Rural,MB,500/15 Mbps,115
+2022,Rural,ON,500/15 Mbps,90.41
+2022,Rural,QC,500/15 Mbps,87.56
+2022,Rural,NB,500/15 Mbps,105
+2022,Rural,PE,500/15 Mbps,120
+2022,Rural,NS,500/15 Mbps,120
+2022,Rural,NL,500/15 Mbps,110
+2022,Rural,YT,500/15 Mbps,239.95
+2022,Rural,NT,500/15 Mbps,239.95
+2022,Rural,Nord / North,25/3 Mbps,103.13
+2022,Rural,Nord / North,50/10 Mbps,156.65
+2022,Rural,Nord / North,100/15 Mbps,145.82
+2022,Rural,Nord / North,200/15 Mbps,189.95
+2022,Rural,Nord / North,500/15 Mbps,239.95
+2022,Rural,Canada,25/3 Mbps,73.22
+2022,Rural,Canada,50/10 Mbps,98.41
+2022,Rural,Canada,100/15 Mbps,100.12
+2022,Rural,Canada,200/15 Mbps,101.41
+2022,Rural,Canada,500/15 Mbps,122.08
+2022,Rural,Canada,940/15 Mbps,106.87
+2022,Rural,Sud / South,25/3 Mbps,70.08
+2022,Rural,Sud / South,50/10 Mbps,92.67
+2022,Rural,Sud / South,100/15 Mbps,93.43
+2022,Rural,Sud / South,200/15 Mbps,92.71
+2022,Rural,Sud / South,940/15 Mbps,103.99
+2022,Rural,Sud / South,500/15 Mbps,102.68
+2022,National,BC,25/3 Mbps,73.15
+2022,National,AB,25/3 Mbps,70.13
+2022,National,SK,25/3 Mbps,71.64
+2022,National,MB,25/3 Mbps,68.09
+2022,National,ON,25/3 Mbps,57.54
+2022,National,QC,25/3 Mbps,57.52
+2022,National,NB,25/3 Mbps,67.92
+2022,National,PE,25/3 Mbps,53.44
+2022,National,NS,25/3 Mbps,64
+2022,National,NL,25/3 Mbps,70.97
+2022,National,YT,25/3 Mbps,98.95
+2022,National,NT,25/3 Mbps,109.21
+2022,National,NU,25/3 Mbps,114.99
+2022,National,Nord / North,25/3 Mbps,107.04
+2022,National,BC,50/10 Mbps,94.96
+2022,National,AB,50/10 Mbps,90.02
+2022,National,SK,50/10 Mbps,92.38
+2022,National,MB,50/10 Mbps,95.2
+2022,National,ON,50/10 Mbps,74.44
+2022,National,QC,50/10 Mbps,76.96
+2022,National,NB,50/10 Mbps,84.62
+2022,National,PE,50/10 Mbps,91.04
+2022,National,NS,50/10 Mbps,91.77
+2022,National,NL,50/10 Mbps,86.79
+2022,National,YT,50/10 Mbps,149.98
+2022,National,NT,50/10 Mbps,159.98
+2022,National,NU,50/10 Mbps,170
+2022,National,Nord / North,50/10 Mbps,159.98
+2022,National,BC,100/15 Mbps,95
+2022,National,AB,100/15 Mbps,96.52
+2022,National,SK,100/15 Mbps,87.6
+2022,National,MB,100/15 Mbps,97.63
+2022,National,ON,100/15 Mbps,78.44
+2022,National,QC,100/15 Mbps,76.78
+2022,National,NB,100/15 Mbps,93.9
+2022,National,PE,100/15 Mbps,97.07
+2022,National,NS,100/15 Mbps,104.98
+2022,National,NL,100/15 Mbps,94.74
+2022,National,YT,100/15 Mbps,143.73
+2022,National,NT,100/15 Mbps,159.98
+2022,National,NU,100/15 Mbps,140
+2022,National,Nord / North,100/15 Mbps,147.9
+2022,National,BC,200/15 Mbps,101.65
+2022,National,AB,200/15 Mbps,102.47
+2022,National,SK,200/15 Mbps,90.65
+2022,National,MB,200/15 Mbps,94.59
+2022,National,ON,200/15 Mbps,86.88
+2022,National,QC,200/15 Mbps,83.06
+2022,National,NB,200/15 Mbps,95.34
+2022,National,PE,200/15 Mbps,87.46
+2022,National,NS,200/15 Mbps,88.2
+2022,National,NL,200/15 Mbps,91.58
+2022,National,YT,200/15 Mbps,189.95
+2022,National,NT,200/15 Mbps,189.95
+2022,National,Nord / North,200/15 Mbps,189.95
+2022,National,BC,500/15 Mbps,104.37
+2022,National,AB,500/15 Mbps,101.97
+2022,National,SK,500/15 Mbps,103.96
+2022,National,MB,500/15 Mbps,109.82
+2022,National,ON,500/15 Mbps,94.3
+2022,National,QC,500/15 Mbps,90.02
+2022,National,NB,500/15 Mbps,103.48
+2022,National,PE,500/15 Mbps,118.75
+2022,National,NS,500/15 Mbps,120
+2022,National,NL,500/15 Mbps,104.99
+2022,National,YT,500/15 Mbps,239.95
+2022,National,NT,500/15 Mbps,239.95
+2022,National,Nord / North,500/15 Mbps,239.95
+2022,National,BC,940/15 Mbps,115.52
+2022,National,AB,940/15 Mbps,94.46
+2022,National,SK,940/15 Mbps,115.79
+2022,National,MB,940/15 Mbps,119.54
+2022,National,ON,940/15 Mbps,105.27
+2022,National,QC,940/15 Mbps,97.21
+2022,National,NB,940/15 Mbps,106.94
+2022,National,PE,940/15 Mbps,114.98
+2022,National,NS,940/15 Mbps,113.73
+2022,National,NL,940/15 Mbps,112.77
+2022,National,Canada,25/3 Mbps,69.22
+2022,National,Canada,50/10 Mbps,94.38
+2022,National,Canada,100/15 Mbps,97.32
+2022,National,Canada,200/15 Mbps,101.08
+2022,National,Canada,500/15 Mbps,119.16
+2022,National,Canada,940/15 Mbps,109.18
+2022,National,Sud / South,25/3 Mbps,64.52
+2022,National,Sud / South,50/10 Mbps,85.92
+2022,National,Sud / South,100/15 Mbps,89.35
+2022,National,Sud / South,200/15 Mbps,91.99
+2022,National,Sud / South,500/15 Mbps,101.87
+2022,National,Sud / South,940/15 Mbps,107.15
+2021,Urbain / Urban,BC,25/3 Mbps,69.61
+2021,Urbain / Urban,AB,25/3 Mbps,68.16
+2021,Urbain / Urban,SK,25/3 Mbps,71.47
+2021,Urbain / Urban,MB,25/3 Mbps,74.42
+2021,Urbain / Urban,ON,25/3 Mbps,60.96
+2021,Urbain / Urban,QC,25/3 Mbps,60.23
+2021,Urbain / Urban,NB,25/3 Mbps,76.98
+2021,Urbain / Urban,PE,25/3 Mbps,81.99
+2021,Urbain / Urban,NS,25/3 Mbps,86.99
+2021,Urbain / Urban,NL,25/3 Mbps,73.64
+2021,Urbain / Urban,YT,25/3 Mbps,115.47
+2021,Urbain / Urban,NT,25/3 Mbps,110.95
+2021,Urbain / Urban,BC,50/10 Mbps,73.26
+2021,Urbain / Urban,AB,50/10 Mbps,77.64
+2021,Urbain / Urban,SK,50/10 Mbps,81.22
+2021,Urbain / Urban,MB,50/10 Mbps,86.97
+2021,Urbain / Urban,ON,50/10 Mbps,69.16
+2021,Urbain / Urban,QC,50/10 Mbps,69.26
+2021,Urbain / Urban,NB,50/10 Mbps,72.4
+2021,Urbain / Urban,PE,50/10 Mbps,80.97
+2021,Urbain / Urban,NS,50/10 Mbps,71.21
+2021,Urbain / Urban,NL,50/10 Mbps,72.4
+2021,Urbain / Urban,YT,50/10 Mbps,149.95
+2021,Urbain / Urban,NT,50/10 Mbps,149.95
+2021,Urbain / Urban,BC,100/15 Mbps,87.49
+2021,Urbain / Urban,AB,100/15 Mbps,89.33
+2021,Urbain / Urban,SK,100/15 Mbps,90.25
+2021,Urbain / Urban,MB,100/15 Mbps,99.6
+2021,Urbain / Urban,ON,100/15 Mbps,87.38
+2021,Urbain / Urban,QC,100/15 Mbps,76.97
+2021,Urbain / Urban,NB,100/15 Mbps,84.82
+2021,Urbain / Urban,PE,100/15 Mbps,104.95
+2021,Urbain / Urban,NS,100/15 Mbps,79.95
+2021,Urbain / Urban,NL,100/15 Mbps,83.39
+2021,Urbain / Urban,YT,100/15 Mbps,239.95
+2021,Urbain / Urban,NT,100/15 Mbps,239.95
+2021,Urbain / Urban,Nord / North,25/3 Mbps,113.21
+2021,Urbain / Urban,Nord / North,50/10 Mbps,149.95
+2021,Urbain / Urban,Nord / North,100/15 Mbps,239.95
+2021,Urbain / Urban,Canada,25/3 Mbps,76.15
+2021,Urbain / Urban,Canada,50/10 Mbps,82.22
+2021,Urbain / Urban,Canada,100/15 Mbps,102.19
+2021,Urbain / Urban,Sud / South,25/3 Mbps,67.65
+2021,Urbain / Urban,Sud / South,50/10 Mbps,73.33
+2021,Urbain / Urban,Sud / South,100/15 Mbps,87.61
+2021,Rural,BC,25/3 Mbps,83.15
+2021,Rural,AB,25/3 Mbps,91.99
+2021,Rural,SK,25/3 Mbps,112.18
+2021,Rural,MB,25/3 Mbps,96.43
+2021,Rural,ON,25/3 Mbps,74.19
+2021,Rural,QC,25/3 Mbps,68.96
+2021,Rural,NB,25/3 Mbps,80.76
+2021,Rural,PE,25/3 Mbps,94.98
+2021,Rural,NS,25/3 Mbps,119.99
+2021,Rural,NL,25/3 Mbps,113.32
+2021,Rural,YT,25/3 Mbps,110.95
+2021,Rural,NT,25/3 Mbps,115.47
+2021,Rural,BC,50/10 Mbps,77.62
+2021,Rural,AB,50/10 Mbps,82.95
+2021,Rural,SK,50/10 Mbps,103.93
+2021,Rural,MB,50/10 Mbps,95.82
+2021,Rural,ON,50/10 Mbps,70.81
+2021,Rural,QC,50/10 Mbps,67.75
+2021,Rural,NB,50/10 Mbps,76.82
+2021,Rural,PE,50/10 Mbps,92.53
+2021,Rural,NS,50/10 Mbps,76.79
+2021,Rural,NL,50/10 Mbps,91.62
+2021,Rural,YT,50/10 Mbps,149.95
+2021,Rural,NT,50/10 Mbps,149.95
+2021,Rural,BC,100/15 Mbps,85.99
+2021,Rural,AB,100/15 Mbps,88.84
+2021,Rural,SK,100/15 Mbps,142.95
+2021,Rural,MB,100/15 Mbps,99.98
+2021,Rural,ON,100/15 Mbps,81.54
+2021,Rural,QC,100/15 Mbps,73.19
+2021,Rural,NB,100/15 Mbps,82.37
+2021,Rural,PE,100/15 Mbps,104.95
+2021,Rural,NS,100/15 Mbps,79.95
+2021,Rural,NL,100/15 Mbps,74.95
+2021,Rural,YT,100/15 Mbps,239.95
+2021,Rural,NT,100/15 Mbps,239.95
+2021,Rural,Nord / North,25/3 Mbps,113.21
+2021,Rural,Nord / North,50/10 Mbps,149.95
+2021,Rural,Nord / North,100/15 Mbps,239.95
+2021,Rural,Canada,25/3 Mbps,95.38
+2021,Rural,Canada,50/10 Mbps,89.69
+2021,Rural,Canada,100/15 Mbps,104.97
+2021,Rural,Sud / South,25/3 Mbps,89.88
+2021,Rural,Sud / South,50/10 Mbps,81.79
+2021,Rural,Sud / South,100/15 Mbps,85.37
+2021,National,BC,25/3 Mbps,76.38
+2021,National,AB,25/3 Mbps,80.07
+2021,National,SK,25/3 Mbps,91.82
+2021,National,MB,25/3 Mbps,85.42
+2021,National,ON,25/3 Mbps,67.58
+2021,National,QC,25/3 Mbps,64.6
+2021,National,NB,25/3 Mbps,78.87
+2021,National,PE,25/3 Mbps,88.49
+2021,National,NS,25/3 Mbps,103.49
+2021,National,NL,25/3 Mbps,93.48
+2021,National,YT,25/3 Mbps,113.21
+2021,National,NT,25/3 Mbps,113.21
+2021,National,Nord / North,25/3 Mbps,113.21
+2021,National,BC,50/10 Mbps,75.44
+2021,National,AB,50/10 Mbps,80.3
+2021,National,SK,50/10 Mbps,92.57
+2021,National,MB,50/10 Mbps,91.4
+2021,National,ON,50/10 Mbps,69.99
+2021,National,QC,50/10 Mbps,68.51
+2021,National,NB,50/10 Mbps,74.61
+2021,National,PE,50/10 Mbps,86.75
+2021,National,NS,50/10 Mbps,74
+2021,National,NL,50/10 Mbps,82.01
+2021,National,YT,50/10 Mbps,149.95
+2021,National,NT,50/10 Mbps,149.95
+2021,National,Nord / North,50/10 Mbps,149.95
+2021,National,BC,100/15 Mbps,86.74
+2021,National,AB,100/15 Mbps,89.09
+2021,National,SK,100/15 Mbps,116.6
+2021,National,MB,100/15 Mbps,99.79
+2021,National,ON,100/15 Mbps,84.46
+2021,National,QC,100/15 Mbps,75.08
+2021,National,NB,100/15 Mbps,83.6
+2021,National,PE,100/15 Mbps,104.95
+2021,National,NS,100/15 Mbps,79.95
+2021,National,NL,100/15 Mbps,79.17
+2021,National,YT,100/15 Mbps,239.95
+2021,National,NT,100/15 Mbps,239.95
+2021,National,Nord / North,100/15 Mbps,239.95
+2021,National,Canada,25/3 Mbps,85.76
+2021,National,Canada,50/10 Mbps,85.96
+2021,National,Canada,100/15 Mbps,103.58
+2021,National,Sud / South,25/3 Mbps,78.76
+2021,National,Sud / South,50/10 Mbps,77.56
+2021,National,Sud / South,100/15 Mbps,86.49
+2020,Urbain / Urban,BC,25/3 Mbps,69.68
+2020,Urbain / Urban,AB,25/3 Mbps,66.68
+2020,Urbain / Urban,SK,25/3 Mbps,68.54
+2020,Urbain / Urban,MB,25/3 Mbps,70.47
+2020,Urbain / Urban,ON,25/3 Mbps,59.41
+2020,Urbain / Urban,QC,25/3 Mbps,60.93
+2020,Urbain / Urban,NB,25/3 Mbps,72.64
+2020,Urbain / Urban,PE,25/3 Mbps,76.99
+2020,Urbain / Urban,NS,25/3 Mbps,76.99
+2020,Urbain / Urban,NL,25/3 Mbps,78.99
+2020,Urbain / Urban,YT,25/3 Mbps,120.47
+2020,Urbain / Urban,NT,25/3 Mbps,120.47
+2020,Urbain / Urban,NU,25/3 Mbps,129.99
+2020,Urbain / Urban,BC,50/10 Mbps,74.64
+2020,Urbain / Urban,AB,50/10 Mbps,74.87
+2020,Urbain / Urban,SK,50/10 Mbps,71.96
+2020,Urbain / Urban,MB,50/10 Mbps,81.4
+2020,Urbain / Urban,ON,50/10 Mbps,65.55
+2020,Urbain / Urban,QC,50/10 Mbps,65.97
+2020,Urbain / Urban,NB,50/10 Mbps,66.17
+2020,Urbain / Urban,PE,50/10 Mbps,65.99
+2020,Urbain / Urban,NS,50/10 Mbps,57.47
+2020,Urbain / Urban,NL,50/10 Mbps,66.17
+2020,Urbain / Urban,YT,50/10 Mbps,160.95
+2020,Urbain / Urban,NT,50/10 Mbps,160.95
+2020,Urbain / Urban,BC,100/15 Mbps,88.46
+2020,Urbain / Urban,AB,100/15 Mbps,89.58
+2020,Urbain / Urban,SK,100/15 Mbps,88.08
+2020,Urbain / Urban,MB,100/15 Mbps,93.1
+2020,Urbain / Urban,ON,100/15 Mbps,79.66
+2020,Urbain / Urban,QC,100/15 Mbps,73.17
+2020,Urbain / Urban,NB,100/15 Mbps,79.63
+2020,Urbain / Urban,PE,100/15 Mbps,97.95
+2020,Urbain / Urban,NS,100/15 Mbps,97.95
+2020,Urbain / Urban,NL,100/15 Mbps,79.63
+2020,Urbain / Urban,YT,100/15 Mbps,239.95
+2020,Urbain / Urban,NT,100/15 Mbps,239.95
+2020,Urbain / Urban,Nord / North,25/3 Mbps,123.64
+2020,Urbain / Urban,Nord / North,50/10 Mbps,160.95
+2020,Urbain / Urban,Nord / North,100/15 Mbps,239.95
+2020,Urbain / Urban,Canada,25/3 Mbps,75
+2020,Urbain / Urban,Canada,50/10 Mbps,77.38
+2020,Urbain / Urban,Canada,100/15 Mbps,100.65
+2020,Urbain / Urban,Sud / South,25/3 Mbps,65.86
+2020,Urbain / Urban,Sud / South,50/10 Mbps,68.4
+2020,Urbain / Urban,Sud / South,100/15 Mbps,84
+2020,Rural,BC,25/3 Mbps,84.63
+2020,Rural,AB,25/3 Mbps,93.16
+2020,Rural,SK,25/3 Mbps,101.48
+2020,Rural,MB,25/3 Mbps,110.04
+2020,Rural,ON,25/3 Mbps,80.97
+2020,Rural,QC,25/3 Mbps,77.99
+2020,Rural,NB,25/3 Mbps,83.99
+2020,Rural,PE,25/3 Mbps,119.99
+2020,Rural,NS,25/3 Mbps,129.99
+2020,Rural,NL,25/3 Mbps,119.99
+2020,Rural,NT,25/3 Mbps,120.47
+2020,Rural,NU,25/3 Mbps,129.99
+2020,Rural,BC,50/10 Mbps,85.14
+2020,Rural,AB,50/10 Mbps,87.26
+2020,Rural,SK,50/10 Mbps,89.95
+2020,Rural,MB,50/10 Mbps,82.66
+2020,Rural,ON,50/10 Mbps,61.9
+2020,Rural,QC,50/10 Mbps,60.98
+2020,Rural,NB,50/10 Mbps,69.31
+2020,Rural,PE,50/10 Mbps,64.98
+2020,Rural,NS,50/10 Mbps,58.97
+2020,Rural,NT,50/10 Mbps,160.95
+2020,Rural,BC,100/15 Mbps,86.86
+2020,Rural,AB,100/15 Mbps,97.3
+2020,Rural,MB,100/15 Mbps,93.16
+2020,Rural,ON,100/15 Mbps,85.56
+2020,Rural,QC,100/15 Mbps,67.67
+2020,Rural,NB,100/15 Mbps,86.39
+2020,Rural,PE,100/15 Mbps,149.95
+2020,Rural,NS,100/15 Mbps,97.95
+2020,Rural,NL,100/15 Mbps,69.95
+2020,Rural,NT,100/15 Mbps,239.95
+2020,Rural,Nord / North,25/3 Mbps,126.82
+2020,Rural,Nord / North,50/10 Mbps,160.95
+2020,Rural,Nord / North,100/15 Mbps,239.95
+2020,Rural,Canada,25/3 Mbps,102.64
+2020,Rural,Canada,50/10 Mbps,82.21
+2020,Rural,Canada,100/15 Mbps,107.47
+2020,Rural,Sud / South,25/3 Mbps,95.27
+2020,Rural,Sud / South,50/10 Mbps,73.98
+2020,Rural,Sud / South,100/15 Mbps,88.8
+2020,National,BC,25/3 Mbps,77.16
+2020,National,AB,25/3 Mbps,79.92
+2020,National,SK,25/3 Mbps,85.01
+2020,National,MB,25/3 Mbps,90.25
+2020,National,ON,25/3 Mbps,70.19
+2020,National,QC,25/3 Mbps,69.46
+2020,National,NB,25/3 Mbps,78.32
+2020,National,PE,25/3 Mbps,98.49
+2020,National,NS,25/3 Mbps,103.49
+2020,National,NL,25/3 Mbps,99.49
+2020,National,YT,25/3 Mbps,120.47
+2020,National,NT,25/3 Mbps,120.47
+2020,National,NU,25/3 Mbps,129.99
+2020,National,Nord / North,25/3 Mbps,125.23
+2020,National,BC,50/10 Mbps,79.89
+2020,National,AB,50/10 Mbps,81.06
+2020,National,SK,50/10 Mbps,80.95
+2020,National,MB,50/10 Mbps,82.03
+2020,National,ON,50/10 Mbps,63.73
+2020,National,QC,50/10 Mbps,63.48
+2020,National,NB,50/10 Mbps,67.74
+2020,National,PE,50/10 Mbps,65.49
+2020,National,NS,50/10 Mbps,58.22
+2020,National,NL,50/10 Mbps,66.17
+2020,National,YT,50/10 Mbps,160.95
+2020,National,NT,50/10 Mbps,160.95
+2020,National,Nord / North,50/10 Mbps,160.95
+2020,National,BC,100/15 Mbps,87.66
+2020,National,AB,100/15 Mbps,93.44
+2020,National,SK,100/15 Mbps,88.08
+2020,National,MB,100/15 Mbps,93.13
+2020,National,ON,100/15 Mbps,82.61
+2020,National,QC,100/15 Mbps,70.42
+2020,National,NB,100/15 Mbps,83.01
+2020,National,PE,100/15 Mbps,123.95
+2020,National,NS,100/15 Mbps,97.95
+2020,National,NL,100/15 Mbps,74.79
+2020,National,YT,100/15 Mbps,239.95
+2020,National,NT,100/15 Mbps,239.95
+2020,National,Nord / North,100/15 Mbps,239.95
+2020,National,Canada,25/3 Mbps,88.82
+2020,National,Canada,50/10 Mbps,79.79
+2020,National,Canada,100/15 Mbps,104.06
+2020,National,Sud / South,25/3 Mbps,80.56
+2020,National,Sud / South,50/10 Mbps,71.19
+2020,National,Sud / South,100/15 Mbps,86.4
+2019,Urbain / Urban,BC,25/3 Mbps,56.6
+2019,Urbain / Urban,AB,25/3 Mbps,56.6
+2019,Urbain / Urban,SK,25/3 Mbps,61.13
+2019,Urbain / Urban,MB,25/3 Mbps,58.14
+2019,Urbain / Urban,ON,25/3 Mbps,45.04
+2019,Urbain / Urban,QC,25/3 Mbps,47.34
+2019,Urbain / Urban,NB,25/3 Mbps,54.96
+2019,Urbain / Urban,NL,25/3 Mbps,49.99
+2019,Urbain / Urban,YT,25/3 Mbps,110.95
+2019,Urbain / Urban,NT,25/3 Mbps,110.95
+2019,Urbain / Urban,NU,25/3 Mbps,129.99
+2019,Urbain / Urban,BC,50/10 Mbps,64.37
+2019,Urbain / Urban,AB,50/10 Mbps,63.26
+2019,Urbain / Urban,SK,50/10 Mbps,71.16
+2019,Urbain / Urban,MB,50/10 Mbps,63.97
+2019,Urbain / Urban,ON,50/10 Mbps,59.55
+2019,Urbain / Urban,QC,50/10 Mbps,56.19
+2019,Urbain / Urban,NB,50/10 Mbps,61.97
+2019,Urbain / Urban,PE,50/10 Mbps,62.46
+2019,Urbain / Urban,NS,50/10 Mbps,62.46
+2019,Urbain / Urban,NL,50/10 Mbps,65.98
+2019,Urbain / Urban,BC,100/15 Mbps,75.35
+2019,Urbain / Urban,AB,100/15 Mbps,75.35
+2019,Urbain / Urban,SK,100/15 Mbps,83.13
+2019,Urbain / Urban,MB,100/15 Mbps,77.97
+2019,Urbain / Urban,ON,100/15 Mbps,70.58
+2019,Urbain / Urban,QC,100/15 Mbps,64.48
+2019,Urbain / Urban,NB,100/15 Mbps,72.37
+2019,Urbain / Urban,PE,100/15 Mbps,74.95
+2019,Urbain / Urban,NS,100/15 Mbps,74.95
+2019,Urbain / Urban,NL,100/15 Mbps,69.37
+2019,Urbain / Urban,YT,100/15 Mbps,239.95
+2019,Urbain / Urban,NT,100/15 Mbps,239.95
+2019,Urbain / Urban,Nord / North,25/3 Mbps,117.3
+2019,Urbain / Urban,Nord / North,100/15 Mbps,239.95
+2019,Urbain / Urban,Canada,25/3 Mbps,60.79
+2019,Urbain / Urban,Canada,50/10 Mbps,63.14
+2019,Urbain / Urban,Canada,100/15 Mbps,88.95
+2019,Urbain / Urban,Sud / South,25/3 Mbps,50.88
+2019,Urbain / Urban,Sud / South,50/10 Mbps,62.05
+2019,Urbain / Urban,Sud / South,100/15 Mbps,72.9
+2019,Rural,BC,25/3 Mbps,75.48
+2019,Rural,AB,25/3 Mbps,88.07
+2019,Rural,SK,25/3 Mbps,98.48
+2019,Rural,MB,25/3 Mbps,121.52
+2019,Rural,ON,25/3 Mbps,66.84
+2019,Rural,QC,25/3 Mbps,66.7
+2019,Rural,NB,25/3 Mbps,70.32
+2019,Rural,PE,25/3 Mbps,99.99
+2019,Rural,NS,25/3 Mbps,129.99
+2019,Rural,NL,25/3 Mbps,116.32
+2019,Rural,NT,25/3 Mbps,110.23
+2019,Rural,NU,25/3 Mbps,114.99
+2019,Rural,BC,50/10 Mbps,68.02
+2019,Rural,AB,50/10 Mbps,79.15
+2019,Rural,SK,50/10 Mbps,89.95
+2019,Rural,MB,50/10 Mbps,60
+2019,Rural,ON,50/10 Mbps,61
+2019,Rural,QC,50/10 Mbps,58.61
+2019,Rural,NB,50/10 Mbps,66.98
+2019,Rural,PE,50/10 Mbps,74.97
+2019,Rural,NS,50/10 Mbps,69.57
+2019,Rural,NL,50/10 Mbps,74.62
+2019,Rural,BC,100/15 Mbps,77.73
+2019,Rural,AB,100/15 Mbps,90.52
+2019,Rural,SK,100/15 Mbps,139.95
+2019,Rural,MB,100/15 Mbps,79
+2019,Rural,ON,100/15 Mbps,87.65
+2019,Rural,QC,100/15 Mbps,63.46
+2019,Rural,NB,100/15 Mbps,80.41
+2019,Rural,NT,100/15 Mbps,239.95
+2019,Rural,Nord / North,25/3 Mbps,112.61
+2019,Rural,Nord / North,100/15 Mbps,239.95
+2019,Rural,Canada,25/3 Mbps,95.12
+2019,Rural,Canada,50/10 Mbps,70.29
+2019,Rural,Canada,100/15 Mbps,107.33
+2019,Rural,Sud / South,25/3 Mbps,88.61
+2019,Rural,Sud / South,50/10 Mbps,69.45
+2019,Rural,Sud / South,100/15 Mbps,81.05
+2019,National,BC,25/3 Mbps,66.04
+2019,National,AB,25/3 Mbps,72.34
+2019,National,SK,25/3 Mbps,79.8
+2019,National,MB,25/3 Mbps,89.83
+2019,National,ON,25/3 Mbps,55.94
+2019,National,QC,25/3 Mbps,57.02
+2019,National,NB,25/3 Mbps,62.64
+2019,National,PE,25/3 Mbps,99.99
+2019,National,NS,25/3 Mbps,129.99
+2019,National,NL,25/3 Mbps,83.16
+2019,National,YT,25/3 Mbps,110.95
+2019,National,NT,25/3 Mbps,110.59
+2019,National,NU,25/3 Mbps,122.49
+2019,National,Nord / North,25/3 Mbps,114.95
+2019,National,BC,50/10 Mbps,66.19
+2019,National,AB,50/10 Mbps,71.21
+2019,National,SK,50/10 Mbps,80.55
+2019,National,MB,50/10 Mbps,61.98
+2019,National,ON,50/10 Mbps,60.27
+2019,National,QC,50/10 Mbps,57.4
+2019,National,NB,50/10 Mbps,64.47
+2019,National,PE,50/10 Mbps,68.72
+2019,National,NS,50/10 Mbps,66.01
+2019,National,NL,50/10 Mbps,70.3
+2019,National,BC,100/15 Mbps,76.54
+2019,National,AB,100/15 Mbps,82.94
+2019,National,SK,100/15 Mbps,111.54
+2019,National,MB,100/15 Mbps,78.48
+2019,National,ON,100/15 Mbps,79.12
+2019,National,QC,100/15 Mbps,63.97
+2019,National,NB,100/15 Mbps,76.39
+2019,National,PE,100/15 Mbps,74.95
+2019,National,NS,100/15 Mbps,74.95
+2019,National,NL,100/15 Mbps,69.37
+2019,National,YT,100/15 Mbps,239.95
+2019,National,NT,100/15 Mbps,239.95
+2019,National,Nord / North,100/15 Mbps,239.95
+2019,National,Canada,25/3 Mbps,77.95
+2019,National,Canada,50/10 Mbps,66.71
+2019,National,Canada,100/15 Mbps,98.14
+2019,National,Sud / South,25/3 Mbps,69.75
+2019,National,Sud / South,50/10 Mbps,65.75
+2019,National,Sud / South,100/15 Mbps,76.97
+2018,Urbain / Urban,BC,5/1 Mbps,51.1
+2018,Urbain / Urban,AB,5/1 Mbps,51.16
+2018,Urbain / Urban,SK,5/1 Mbps,48.78
+2018,Urbain / Urban,MB,5/1 Mbps,55.37
+2018,Urbain / Urban,ON,5/1 Mbps,45.82
+2018,Urbain / Urban,QC,5/1 Mbps,47.23
+2018,Urbain / Urban,NB,5/1 Mbps,48.3
+2018,Urbain / Urban,PE,5/1 Mbps,63.95
+2018,Urbain / Urban,NS,5/1 Mbps,41.95
+2018,Urbain / Urban,NL,5/1 Mbps,42.96
+2018,Urbain / Urban,YT,5/1 Mbps,41.95
+2018,Urbain / Urban,NT,5/1 Mbps,41.95
+2018,Urbain / Urban,NU,5/1 Mbps,75
+2018,Urbain / Urban,BC,25/3 Mbps,54.6
+2018,Urbain / Urban,AB,25/3 Mbps,54.85
+2018,Urbain / Urban,SK,25/3 Mbps,55.56
+2018,Urbain / Urban,MB,25/3 Mbps,60.57
+2018,Urbain / Urban,ON,25/3 Mbps,52.16
+2018,Urbain / Urban,QC,25/3 Mbps,47.59
+2018,Urbain / Urban,NB,25/3 Mbps,71.47
+2018,Urbain / Urban,NL,25/3 Mbps,71.47
+2018,Urbain / Urban,YT,25/3 Mbps,110.95
+2018,Urbain / Urban,NT,25/3 Mbps,110.95
+2018,Urbain / Urban,NU,25/3 Mbps,99.99
+2018,Urbain / Urban,BC,50/10 Mbps,65.72
+2018,Urbain / Urban,AB,50/10 Mbps,65.72
+2018,Urbain / Urban,SK,50/10 Mbps,72.81
+2018,Urbain / Urban,MB,50/10 Mbps,75.17
+2018,Urbain / Urban,ON,50/10 Mbps,61.48
+2018,Urbain / Urban,QC,50/10 Mbps,61.71
+2018,Urbain / Urban,NB,50/10 Mbps,90.3
+2018,Urbain / Urban,PE,50/10 Mbps,97.95
+2018,Urbain / Urban,NS,50/10 Mbps,97.95
+2018,Urbain / Urban,NL,50/10 Mbps,90.3
+2018,Urbain / Urban,Nord / North,5/1 Mbps,52.97
+2018,Urbain / Urban,Nord / North,25/3 Mbps,107.3
+2018,Urbain / Urban,Canada,5/1 Mbps,49.96
+2018,Urbain / Urban,Canada,25/3 Mbps,63.95
+2018,Urbain / Urban,Canada,50/10 Mbps,77.91
+2018,Urbain / Urban,Sud / South,5/1 Mbps,48.36
+2018,Urbain / Urban,Sud / South,25/3 Mbps,55.05
+2018,Urbain / Urban,Sud / South,50/10 Mbps,70.26
+2018,Rural,BC,5/1 Mbps,55.85
+2018,Rural,AB,5/1 Mbps,62.84
+2018,Rural,SK,5/1 Mbps,60.94
+2018,Rural,MB,5/1 Mbps,70.67
+2018,Rural,ON,5/1 Mbps,49.65
+2018,Rural,QC,5/1 Mbps,51.83
+2018,Rural,NB,5/1 Mbps,60.74
+2018,Rural,PE,5/1 Mbps,79.97
+2018,Rural,NS,5/1 Mbps,74.9
+2018,Rural,NL,5/1 Mbps,74.98
+2018,Rural,YT,5/1 Mbps,69.99
+2018,Rural,NT,5/1 Mbps,64.72
+2018,Rural,NU,5/1 Mbps,69.99
+2018,Rural,BC,25/3 Mbps,79.63
+2018,Rural,AB,25/3 Mbps,78.59
+2018,Rural,SK,25/3 Mbps,92.48
+2018,Rural,MB,25/3 Mbps,99.99
+2018,Rural,ON,25/3 Mbps,64.9
+2018,Rural,QC,25/3 Mbps,74.23
+2018,Rural,NB,25/3 Mbps,86.32
+2018,Rural,PE,25/3 Mbps,99.99
+2018,Rural,NS,25/3 Mbps,99.99
+2018,Rural,NL,25/3 Mbps,99.99
+2018,Rural,YT,25/3 Mbps,99.99
+2018,Rural,NT,25/3 Mbps,102.73
+2018,Rural,NU,25/3 Mbps,99.99
+2018,Rural,BC,50/10 Mbps,74.8
+2018,Rural,AB,50/10 Mbps,71.79
+2018,Rural,ON,50/10 Mbps,61.75
+2018,Rural,QC,50/10 Mbps,59.24
+2018,Rural,NB,50/10 Mbps,90.48
+2018,Rural,PE,50/10 Mbps,95.95
+2018,Rural,NS,50/10 Mbps,96.62
+2018,Rural,NL,50/10 Mbps,95.95
+2018,Rural,Nord / North,5/1 Mbps,68.23
+2018,Rural,Nord / North,25/3 Mbps,100.9
+2018,Rural,Canada,5/1 Mbps,64.6
+2018,Rural,Canada,25/3 Mbps,88.82
+2018,Rural,Canada,50/10 Mbps,80.82
+2018,Rural,Sud / South,5/1 Mbps,61.36
+2018,Rural,Sud / South,25/3 Mbps,84.28
+2018,Rural,Sud / South,50/10 Mbps,75.87
+2018,National,BC,5/1 Mbps,53.47
+2018,National,AB,5/1 Mbps,57
+2018,National,SK,5/1 Mbps,54.86
+2018,National,MB,5/1 Mbps,63.02
+2018,National,ON,5/1 Mbps,47.73
+2018,National,QC,5/1 Mbps,49.53
+2018,National,NB,5/1 Mbps,54.52
+2018,National,PE,5/1 Mbps,71.96
+2018,National,NS,5/1 Mbps,58.43
+2018,National,NL,5/1 Mbps,58.97
+2018,National,YT,5/1 Mbps,55.97
+2018,National,NT,5/1 Mbps,53.34
+2018,National,NU,5/1 Mbps,72.49
+2018,National,Nord / North,5/1 Mbps,60.6
+2018,National,BC,25/3 Mbps,67.12
+2018,National,AB,25/3 Mbps,66.72
+2018,National,SK,25/3 Mbps,74.02
+2018,National,MB,25/3 Mbps,80.28
+2018,National,ON,25/3 Mbps,58.53
+2018,National,QC,25/3 Mbps,60.91
+2018,National,NB,25/3 Mbps,78.89
+2018,National,PE,25/3 Mbps,99.99
+2018,National,NS,25/3 Mbps,99.99
+2018,National,NL,25/3 Mbps,85.73
+2018,National,YT,25/3 Mbps,105.47
+2018,National,NT,25/3 Mbps,106.84
+2018,National,NU,25/3 Mbps,99.99
+2018,National,Nord / North,25/3 Mbps,104.1
+2018,National,BC,50/10 Mbps,70.26
+2018,National,AB,50/10 Mbps,68.75
+2018,National,SK,50/10 Mbps,72.81
+2018,National,MB,50/10 Mbps,75.17
+2018,National,ON,50/10 Mbps,61.61
+2018,National,QC,50/10 Mbps,60.48
+2018,National,NB,50/10 Mbps,90.39
+2018,National,PE,50/10 Mbps,96.95
+2018,National,NS,50/10 Mbps,97.28
+2018,National,NL,50/10 Mbps,93.12
+2018,National,Canada,5/1 Mbps,57.28
+2018,National,Canada,25/3 Mbps,76.39
+2018,National,Canada,50/10 Mbps,79.37
+2018,National,Sud / South,5/1 Mbps,54.86
+2018,National,Sud / South,25/3 Mbps,69.67
+2018,National,Sud / South,50/10 Mbps,73.06
+2017,Urbain / Urban,BC,5/1 Mbps,42.23
+2017,Urbain / Urban,AB,5/1 Mbps,42.23
+2017,Urbain / Urban,SK,5/1 Mbps,43.13
+2017,Urbain / Urban,MB,5/1 Mbps,44.72
+2017,Urbain / Urban,ON,5/1 Mbps,39.47
+2017,Urbain / Urban,QC,5/1 Mbps,39.77
+2017,Urbain / Urban,NB,5/1 Mbps,62.45
+2017,Urbain / Urban,NS,5/1 Mbps,74.95
+2017,Urbain / Urban,NL,5/1 Mbps,48.96
+2017,Urbain / Urban,YT,5/1 Mbps,41.95
+2017,Urbain / Urban,NT,5/1 Mbps,41.95
+2017,Urbain / Urban,NU,5/1 Mbps,59.99
+2017,Urbain / Urban,BC,25/3 Mbps,58.47
+2017,Urbain / Urban,AB,25/3 Mbps,56.97
+2017,Urbain / Urban,SK,25/3 Mbps,58.54
+2017,Urbain / Urban,MB,25/3 Mbps,61.47
+2017,Urbain / Urban,ON,25/3 Mbps,51.99
+2017,Urbain / Urban,QC,25/3 Mbps,49.32
+2017,Urbain / Urban,NB,25/3 Mbps,69.99
+2017,Urbain / Urban,NL,25/3 Mbps,69.99
+2017,Urbain / Urban,YT,25/3 Mbps,110.95
+2017,Urbain / Urban,NT,25/3 Mbps,110.95
+2017,Urbain / Urban,BC,50/10 Mbps,74.55
+2017,Urbain / Urban,AB,50/10 Mbps,74.55
+2017,Urbain / Urban,SK,50/10 Mbps,84.13
+2017,Urbain / Urban,MB,50/10 Mbps,86.31
+2017,Urbain / Urban,ON,50/10 Mbps,63.62
+2017,Urbain / Urban,QC,50/10 Mbps,61.8
+2017,Urbain / Urban,NB,50/10 Mbps,88.47
+2017,Urbain / Urban,PE,50/10 Mbps,91.95
+2017,Urbain / Urban,NS,50/10 Mbps,91.95
+2017,Urbain / Urban,NL,50/10 Mbps,88.47
+2017,Urbain / Urban,Nord / North,5/1 Mbps,47.96
+2017,Urbain / Urban,Nord / North,25/3 Mbps,110.95
+2017,Urbain / Urban,Canada,5/1 Mbps,48.59
+2017,Urbain / Urban,Canada,25/3 Mbps,65.3
+2017,Urbain / Urban,Canada,50/10 Mbps,80.58
+2017,Urbain / Urban,Sud / South,5/1 Mbps,44.08
+2017,Urbain / Urban,Sud / South,25/3 Mbps,56
+2017,Urbain / Urban,Sud / South,50/10 Mbps,73.63
+2017,Rural,BC,5/1 Mbps,55.35
+2017,Rural,AB,5/1 Mbps,62.02
+2017,Rural,SK,5/1 Mbps,58.03
+2017,Rural,MB,5/1 Mbps,63.57
+2017,Rural,ON,5/1 Mbps,48.63
+2017,Rural,QC,5/1 Mbps,47.41
+2017,Rural,NB,5/1 Mbps,51.98
+2017,Rural,PE,5/1 Mbps,80.96
+2017,Rural,NS,5/1 Mbps,65.23
+2017,Rural,NL,5/1 Mbps,65.23
+2017,Rural,YT,5/1 Mbps,83.97
+2017,Rural,NT,5/1 Mbps,63.96
+2017,Rural,NU,5/1 Mbps,59.99
+2017,Rural,BC,25/3 Mbps,75.09
+2017,Rural,AB,25/3 Mbps,79.33
+2017,Rural,SK,25/3 Mbps,96.86
+2017,Rural,MB,25/3 Mbps,99.99
+2017,Rural,ON,25/3 Mbps,62.76
+2017,Rural,QC,25/3 Mbps,61.33
+2017,Rural,NB,25/3 Mbps,73.32
+2017,Rural,PE,25/3 Mbps,89.99
+2017,Rural,NS,25/3 Mbps,99.99
+2017,Rural,NT,25/3 Mbps,105.47
+2017,Rural,BC,50/10 Mbps,77.14
+2017,Rural,AB,50/10 Mbps,74.99
+2017,Rural,ON,50/10 Mbps,66.27
+2017,Rural,QC,50/10 Mbps,66.17
+2017,Rural,NB,50/10 Mbps,84.99
+2017,Rural,PE,50/10 Mbps,91.95
+2017,Rural,NS,50/10 Mbps,91.95
+2017,Rural,NL,50/10 Mbps,91.95
+2017,Rural,Nord / North,5/1 Mbps,69.31
+2017,Rural,Nord / North,25/3 Mbps,105.47
+2017,Rural,Canada,5/1 Mbps,60.7
+2017,Rural,Canada,25/3 Mbps,84.41
+2017,Rural,Canada,50/10 Mbps,80.68
+2017,Rural,Sud / South,5/1 Mbps,57.67
+2017,Rural,Sud / South,25/3 Mbps,75.09
+2017,Rural,Sud / South,50/10 Mbps,76.46
+2017,National,BC,5/1 Mbps,48.79
+2017,National,AB,5/1 Mbps,52.12
+2017,National,SK,5/1 Mbps,50.58
+2017,National,MB,5/1 Mbps,54.14
+2017,National,ON,5/1 Mbps,44.05
+2017,National,QC,5/1 Mbps,43.59
+2017,National,NB,5/1 Mbps,57.22
+2017,National,PE,5/1 Mbps,80.96
+2017,National,NS,5/1 Mbps,70.09
+2017,National,NL,5/1 Mbps,57.1
+2017,National,YT,5/1 Mbps,62.96
+2017,National,NT,5/1 Mbps,52.96
+2017,National,NU,5/1 Mbps,59.99
+2017,National,Nord / North,5/1 Mbps,58.64
+2017,National,BC,25/3 Mbps,66.78
+2017,National,AB,25/3 Mbps,68.15
+2017,National,SK,25/3 Mbps,77.7
+2017,National,MB,25/3 Mbps,80.73
+2017,National,ON,25/3 Mbps,57.38
+2017,National,QC,25/3 Mbps,55.33
+2017,National,NB,25/3 Mbps,71.66
+2017,National,PE,25/3 Mbps,89.99
+2017,National,NS,25/3 Mbps,99.99
+2017,National,NL,25/3 Mbps,69.99
+2017,National,YT,25/3 Mbps,110.95
+2017,National,NT,25/3 Mbps,108.21
+2017,National,Nord / North,25/3 Mbps,108.21
+2017,National,BC,50/10 Mbps,75.84
+2017,National,AB,50/10 Mbps,74.77
+2017,National,SK,50/10 Mbps,84.13
+2017,National,MB,50/10 Mbps,86.31
+2017,National,ON,50/10 Mbps,64.95
+2017,National,QC,50/10 Mbps,63.99
+2017,National,NB,50/10 Mbps,86.73
+2017,National,PE,50/10 Mbps,91.95
+2017,National,NS,50/10 Mbps,91.95
+2017,National,NL,50/10 Mbps,90.21
+2017,National,Canada,5/1 Mbps,54.64
+2017,National,Canada,25/3 Mbps,74.86
+2017,National,Canada,50/10 Mbps,80.63
+2017,National,Sud / South,5/1 Mbps,50.87
+2017,National,Sud / South,25/3 Mbps,65.54
+2017,National,Sud / South,50/10 Mbps,75.04
+2016,Urbain / Urban,BC,5/1 Mbps,48.19
+2016,Urbain / Urban,AB,5/1 Mbps,48.19
+2016,Urbain / Urban,SK,5/1 Mbps,61.38
+2016,Urbain / Urban,MB,5/1 Mbps,52.66
+2016,Urbain / Urban,ON,5/1 Mbps,42.37
+2016,Urbain / Urban,QC,5/1 Mbps,41.31
+2016,Urbain / Urban,NB,5/1 Mbps,32.99
+2016,Urbain / Urban,PE,5/1 Mbps,41.95
+2016,Urbain / Urban,NL,5/1 Mbps,32.99
+2016,Urbain / Urban,YT,5/1 Mbps,62.95
+2016,Urbain / Urban,NT,5/1 Mbps,62.95
+2016,Urbain / Urban,NU,5/1 Mbps,69.99
+2016,Urbain / Urban,BC,25/3 Mbps,62.78
+2016,Urbain / Urban,AB,25/3 Mbps,62.78
+2016,Urbain / Urban,SK,25/3 Mbps,78.22
+2016,Urbain / Urban,MB,25/3 Mbps,68.33
+2016,Urbain / Urban,ON,25/3 Mbps,55.38
+2016,Urbain / Urban,QC,25/3 Mbps,53
+2016,Urbain / Urban,NB,25/3 Mbps,62.99
+2016,Urbain / Urban,NL,25/3 Mbps,62.99
+2016,Urbain / Urban,YT,25/3 Mbps,139.95
+2016,Urbain / Urban,NT,25/3 Mbps,139.95
+2016,Urbain / Urban,BC,50/10 Mbps,80.58
+2016,Urbain / Urban,AB,50/10 Mbps,80.58
+2016,Urbain / Urban,SK,50/10 Mbps,84.13
+2016,Urbain / Urban,MB,50/10 Mbps,91.66
+2016,Urbain / Urban,ON,50/10 Mbps,70.86
+2016,Urbain / Urban,QC,50/10 Mbps,71.46
+2016,Urbain / Urban,NB,50/10 Mbps,80.97
+2016,Urbain / Urban,PE,50/10 Mbps,87.43
+2016,Urbain / Urban,NS,50/10 Mbps,87.43
+2016,Urbain / Urban,NL,50/10 Mbps,85.97
+2016,Urbain / Urban,Nord / North,5/1 Mbps,65.3
+2016,Urbain / Urban,Nord / North,25/3 Mbps,139.95
+2016,Urbain / Urban,Canada,5/1 Mbps,46.73
+2016,Urbain / Urban,Canada,25/3 Mbps,71.82
+2016,Urbain / Urban,Canada,50/10 Mbps,82.11
+2016,Urbain / Urban,Sud / South,5/1 Mbps,44.88
+2016,Urbain / Urban,Sud / South,25/3 Mbps,60.57
+2016,Urbain / Urban,Sud / South,50/10 Mbps,77.8
+2016,Rural,BC,5/1 Mbps,54.42
+2016,Rural,AB,5/1 Mbps,64.42
+2016,Rural,SK,5/1 Mbps,61.37
+2016,Rural,MB,5/1 Mbps,63.65
+2016,Rural,ON,5/1 Mbps,52.15
+2016,Rural,QC,5/1 Mbps,48.23
+2016,Rural,NB,5/1 Mbps,63.81
+2016,Rural,PE,5/1 Mbps,76.31
+2016,Rural,NS,5/1 Mbps,79.48
+2016,Rural,NL,5/1 Mbps,79.78
+2016,Rural,YT,5/1 Mbps,79.48
+2016,Rural,NT,5/1 Mbps,86.23
+2016,Rural,NU,5/1 Mbps,74.99
+2016,Rural,BC,25/3 Mbps,63.43
+2016,Rural,AB,25/3 Mbps,70.66
+2016,Rural,ON,25/3 Mbps,61.23
+2016,Rural,QC,25/3 Mbps,56.6
+2016,Rural,NB,25/3 Mbps,68.66
+2016,Rural,BC,50/10 Mbps,78.57
+2016,Rural,AB,50/10 Mbps,77.49
+2016,Rural,ON,50/10 Mbps,76.82
+2016,Rural,QC,50/10 Mbps,79.1
+2016,Rural,NB,50/10 Mbps,72.99
+2016,Rural,PE,50/10 Mbps,85.9
+2016,Rural,NL,50/10 Mbps,85.9
+2016,Rural,Nord / North,5/1 Mbps,80.23
+2016,Rural,Canada,5/1 Mbps,65.8
+2016,Rural,Canada,25/3 Mbps,64.11
+2016,Rural,Canada,50/10 Mbps,79.54
+2016,Rural,Sud / South,5/1 Mbps,61.02
+2016,Rural,Sud / South,25/3 Mbps,62.76
+2016,Rural,Sud / South,50/10 Mbps,78.78
+2016,National,BC,5/1 Mbps,51.3
+2016,National,AB,5/1 Mbps,56.3
+2016,National,SK,5/1 Mbps,61.38
+2016,National,MB,5/1 Mbps,58.16
+2016,National,ON,5/1 Mbps,47.26
+2016,National,QC,5/1 Mbps,44.77
+2016,National,NB,5/1 Mbps,48.4
+2016,National,PE,5/1 Mbps,59.13
+2016,National,NS,5/1 Mbps,79.48
+2016,National,NL,5/1 Mbps,56.39
+2016,National,YT,5/1 Mbps,71.22
+2016,National,NT,5/1 Mbps,74.59
+2016,National,NU,5/1 Mbps,72.49
+2016,National,Nord / North,5/1 Mbps,72.76
+2016,National,BC,25/3 Mbps,63.11
+2016,National,AB,25/3 Mbps,66.72
+2016,National,SK,25/3 Mbps,78.22
+2016,National,MB,25/3 Mbps,68.33
+2016,National,ON,25/3 Mbps,58.3
+2016,National,QC,25/3 Mbps,54.8
+2016,National,NB,25/3 Mbps,65.82
+2016,National,NL,25/3 Mbps,62.99
+2016,National,YT,25/3 Mbps,139.95
+2016,National,NT,25/3 Mbps,139.95
+2016,National,Nord / North,25/3 Mbps,139.95
+2016,National,BC,50/10 Mbps,79.57
+2016,National,AB,50/10 Mbps,79.04
+2016,National,SK,50/10 Mbps,84.13
+2016,National,MB,50/10 Mbps,91.66
+2016,National,ON,50/10 Mbps,73.84
+2016,National,QC,50/10 Mbps,75.28
+2016,National,NB,50/10 Mbps,76.98
+2016,National,PE,50/10 Mbps,86.66
+2016,National,NS,50/10 Mbps,87.43
+2016,National,NL,50/10 Mbps,85.94
+2016,National,Canada,5/1 Mbps,56.27
+2016,National,Canada,25/3 Mbps,67.97
+2016,National,Canada,50/10 Mbps,80.82
+2016,National,Sud / South,5/1 Mbps,52.95
+2016,National,Sud / South,25/3 Mbps,61.67
+2016,National,Sud / South,50/10 Mbps,78.29
